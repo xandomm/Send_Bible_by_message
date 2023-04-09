@@ -2,7 +2,7 @@
 
 1- Copie o codigo biblia.js
 
-2- Abra a conversa que deseja enviar a biblia toda
+2- Abra a conversa utilizando o whatsapp web que deseja enviar a biblia toda
 
 3- Aperte F12 e vá em console
 
